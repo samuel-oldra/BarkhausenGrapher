@@ -5,7 +5,7 @@ namespace Grapher
 {
     internal static class Program
     {
-        #region Static private
+        #region Private Methods
 
         /// <summary>
         /// The main entry point for the application.
@@ -18,6 +18,6 @@ namespace Grapher
             Application.Run(new Grapher(args));
         }
 
-        #endregion
+        #endregion Private Methods
     }
 }

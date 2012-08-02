@@ -8,7 +8,7 @@ namespace Grapher
 {
     public partial class Grapher : Form
     {
-        #region Constructors
+        #region Public Constructors
 
         public Grapher(string[] args)
         {
@@ -82,6 +82,6 @@ namespace Grapher
             }
         }
 
-        #endregion
+        #endregion Public Constructors
     }
 }
