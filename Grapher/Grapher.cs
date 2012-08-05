@@ -12,8 +12,6 @@ namespace Grapher
 
         public Grapher(string[] args)
         {
-            if (DateTime.Now > new DateTime(2013, 06, 01)) return;
-
             bool legend = false;
             bool serie01 = false;
             bool serie02 = false;
