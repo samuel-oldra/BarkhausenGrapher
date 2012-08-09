@@ -1,3 +1,11 @@
+<h1 align="center">
+  Barkhausen Grapher
+</h1>
+<p align="center">
+  <a href="#executar">Executar</a> •
+  <a href="#gráficos">Gráficos</a>
+</p>
+
 # Executar
 ![alt text](https://raw.githubusercontent.com/samuel-oldra/Barkhausen-Grapher/main/README_IMGS/1.png)
 # Gráficos
